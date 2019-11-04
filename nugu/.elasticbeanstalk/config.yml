@@ -1,0 +1,19 @@
+branch-defaults:
+  master:
+    environment: nugu
+    group_suffix: null
+environment-defaults:
+  NUGUBLANC-dev:
+    branch: null
+    repository: null
+global:
+  application_name: nugu
+  branch: null
+  default_platform: python-3.6
+  default_region: ap-northeast-2
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  repository: null
+  workspace_type: Application
